@@ -1,0 +1,6 @@
+my_tuple = ('apple','grapes','mango','grapes')
+print(len(my_tuple))
+print(my_tuple.count('grapes'))
+print(my_tuple[1])
+print((my_tuple.index('grapes')))
+print(list(zip([1,2,3],[4,5,6])))
